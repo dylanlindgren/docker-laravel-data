@@ -1,2 +1,2 @@
-docker-laravel-core
+docker-laravel-data
 ===================
