@@ -1,5 +1,7 @@
 dylanlindgren/docker-laravel-data
 ===================
+![Docker + Laravel](https://cloud.githubusercontent.com/assets/6241518/4891710/f61eb9ba-63aa-11e4-9be4-f917e773157d.jpg)
+
 This is a data-only [Docker](http://www.docker.com) image intended for use in the fashion described on my series of blog articles about using Docker and the [Laravel PHP framework](http://www.laravel.com) together:
 
 1. [Docker for the Laravel framework](http://dylanlindgren.com/docker-for-the-laravel-framework) (24 Sep 2014)
